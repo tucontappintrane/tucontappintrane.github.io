@@ -111,7 +111,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var routes = [{
       path: '',
-      component: _pages_pages_component__WEBPACK_IMPORTED_MODULE_8__["PagesComponent"]
+      component: _auth_login_login_component__WEBPACK_IMPORTED_MODULE_3__["LoginComponent"]
     }, {
       path: 'dashboard',
       component: _pages_pages_component__WEBPACK_IMPORTED_MODULE_8__["PagesComponent"],
